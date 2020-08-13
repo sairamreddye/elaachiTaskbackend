@@ -1,0 +1,9 @@
+after cloning the project from the given link
+
+install node_modules 
+
+command : npm install
+
+and if want to store data already want to install mongodb in your local system please ensure that.
+
+and running port of this project is 4000.
